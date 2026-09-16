@@ -1,0 +1,7 @@
+node_modules/
+client/dist/
+server/capsule.db
+server/capsule.db-*
+.env
+*.log
+.DS_Store
